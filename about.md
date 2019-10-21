@@ -7,4 +7,4 @@ permalink: /about/
 ![profile](./assets/img/profile.jpg)
 
 
-<center> Hi there!🙋‍♀️ Welcome to my site. The posts are mainly for organizing my research. My research interests is in the area of applying Machine learning and Deep Learning to solve real world issues. I am particularly interested in solving the problems of developmental issues; applying rigorous algorithms to leverage data driven analysis </center>
+<center> Hi there!🙋‍♀️ Welcome to my site. The posts are mainly for organizing my research. My research interests is in the area of applying Machine learning and Deep Learning to solve real world issues. I am particularly interested in solving the problems of developmental issues; applying rigorous algorithms to leverage data driven analysis. If you have any comments or questions, feel free to contact me via my [mail](sullamij@gmail.com)</center>
