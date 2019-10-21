@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
+![profile](./assets/img/profile.jpg)
 
 
-
-<center> Welcome to my blog. :tiger:</center>
+<center> Hi there! Welcome to my blog. My research interests lie on applying Machine learning and other data mining techniques to solving real world issues. :tiger:</center>
