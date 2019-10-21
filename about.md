@@ -5,7 +5,7 @@ permalink: /about/
 
 
 
-![profile](./assets/img/profile.jpg)
+#![profile](./assets/img/profile.jpg)
 
 
 <center> Welcome to my blog. :tiger:</center>
