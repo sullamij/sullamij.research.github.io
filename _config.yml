@@ -49,6 +49,13 @@ favicon: favicon.ico
 
 # Markdown
 markdown:           kramdown
+
+#Added for math equation
+highlighter:        rouge
+lsi:                false
+excerpt_seperator:  "\n\n"
+incremental:        false
+###
 kramdown:
   input:            GFM
 
@@ -126,5 +133,7 @@ plugins:
   - jekyll-paginate
   - jekyll-admin
   - jemoji
+ 
+
 
 exclude:            [vendor]
