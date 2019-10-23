@@ -65,6 +65,8 @@ nav:
     url:            "/about"
 #  - name:           "Archive"
 #    url:            "/archive"
+  - name:           "Info"
+    url:            "/info"
   - name:           "Categories"
     url:            "/categories"
   - name:           "Tags"
