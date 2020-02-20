@@ -1,6 +1,7 @@
 ---
-title: About
-permalink: /info/
+layout: page
+title: 
+permalink: /cv/
 ---
 
 
