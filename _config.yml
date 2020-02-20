@@ -28,7 +28,8 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "sullam"
+  id:               "sullamjeoung"
+  
 
 # URL
 url:                "https://sullamij.github.io" # the base hostname & protocol for your site
