@@ -67,10 +67,10 @@ nav:
 #    url:            "/archive"
   - name:           "CV"
     url:            "/cv"
-  - name:           "Archive"
-    url:            "/archives"
-#  - name:           "Tags"
-#    url:            "/tags"
+  - name:           "Categories"
+    url:            "/categories"
+  - name:           "Tags"
+    url:            "/tags"
 
 # Sass
 sass:
