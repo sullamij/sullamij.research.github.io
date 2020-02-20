@@ -3,9 +3,9 @@ layout: post
 title: "AI's Blindspots and where to find them"
 comments: true
 description: "AI's Blindspots, FATE"
-categories: [FATE_Talks]
+categories: [Talks_Review]
 tags:
-- FATE
+- FATML
 - ML4D
 ---
 
