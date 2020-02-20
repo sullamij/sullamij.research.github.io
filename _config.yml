@@ -61,8 +61,8 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
+#  - name:           "About"
+#    url:            "/about"
 #  - name:           "Archive"
 #    url:            "/archive"
   - name:           "CV"
