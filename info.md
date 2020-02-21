@@ -5,4 +5,4 @@ permalink: /cv/
 ---
 
 
-Would be updated soon..
+🛠Under Reconstruction..🛠
