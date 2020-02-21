@@ -15,4 +15,4 @@ The main assumption here is that artificial intelligent machines should be recko
 
 ![imgg](./assets/img/MachineBehaviour.png)
 
-###### This is the review of the [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y)published in Nature.
+###### This is the review of the [Machine Behaviour](https://www.nature.com/articles/s41586-019-1138-y) published in [Nature](https://www.nature.com/).
