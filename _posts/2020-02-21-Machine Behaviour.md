@@ -13,7 +13,7 @@ The main assumption here is that artificial intelligent machines should be recko
 
 > The consequential choices that we make regarding the integration of AI agents into human lives must be made with some understanding of the eventual societal implications of these choices. To provide this understanding and anticipation, we need a new interdisciplinary field of scientific study: machine behavior. 
 
-![imgg](./assets/img/machinebehaviour.png)
+![machinebehaviour](./assets/img/machinebehaviour.png)
 
 ### **Framework** 
 The main contribution and the crux of this paper is that it provides framework to understand the machine behaviour. It is essential to our ability to control their actions, reap their benefits and minimize their harms. 
