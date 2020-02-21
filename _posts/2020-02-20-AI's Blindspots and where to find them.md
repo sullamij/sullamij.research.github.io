@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "AI's Blindspots and where to find them"
+title: "AI's Blindspots and Where to Find Them"
 comments: true
 description: "AI's Blindspots, FATE"
 categories: [Talks]
 tags:
 - FATML
 ---
-## **AI deployed in the Real-World**
+### **AI deployed in the Real-World**
 AI is currently widespread in diverse areas including healthcare, crime judgement, business, education, and so forth. The confluence of AI gives the potential for the efficient social resource allocation, enhancing predictability. However, this begets unprecedented and unexpected social and ethical issues. There are many problems deploying AI systems and we are beginning to understand its cause and ramifications.
 
 So, when we develop AI systems for real-world depolyment, what does it mean for them to 'work' properly? The example for AI that are deployed in our lives is not the sophiscated AI robot, but the vacumm cleansing robot. It is often dumbed down but the impact is immense. 
@@ -15,7 +15,7 @@ So, when we develop AI systems for real-world depolyment, what does it mean for 
 The current problem : `Reproducibility Crisis`, `Precision vs. Accuracy`
 
 
-## **Suggested Two Frames**
+### **Suggested Two Frames**
 - `Inside the Box` metrics 
 It is the criteria that the researcher or engineers claims the model should do. e.g. the performance evaluation 
   - Accuracy 
@@ -38,7 +38,7 @@ It is the criteria that the researcher or engineers claims the model should do. 
 
 > We should start to think beyond the accuracies, beyond the metrics inside the box. 
 
-## Related Papers 
+### Related Papers 
 - <a name="footnote_1">[1]</a>:Wagstaff, Kiri. "Machine learning that matters." arXiv preprint arXiv:1206.4656 (2012).[LINK](https://arxiv.org/pdf/1206.4656.pdf)
 - <a name="footnote_2">[2]</a>: Raji, Inioluwa Deborah, and Jingying Yang. "ABOUT ML: Annotation and Benchmarking on Understanding and Transparency of Machine Learning Lifecycles." arXiv preprint arXiv:1912.06166 (2019).[LINK](https://arxiv.org/pdf/1912.06166.pdf)
 
