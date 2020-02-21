@@ -8,7 +8,7 @@ tags:
 - FATML
 ---
 ### **AI deployed in the Real-World**
-AI is currently widespread in diverse areas including healthcare, crime judgement, business, education, and so forth. The confluence of AI gives the potential for the efficient social resource allocation, enhancing predictability. However, this begets unprecedented and unexpected social and ethical issues. There are many problems deploying AI systems and we are beginning to understand its cause and ramifications.
+AI is currently widespread in diverse areas including healthcare, crime judgement, business, education, and so forth. The confluence of AI gives the potential for the efficient social resource allocation via enhanced predictability. However, this also begets unprecedented and unexpected social and ethical issues. There are many problems in deploying AI systems and we are beginning to understand its cause and ramifications.
 
 So, when we develop AI systems for real-world depolyment, what does it mean for them to 'work' properly? The example for AI that are deployed in our lives is not the sophiscated AI robot, but the vacumm cleansing robot. It is often dumbed down but the impact is immense. 
 
@@ -17,7 +17,7 @@ The current problem : `Reproducibility Crisis`, `Precision vs. Accuracy`
 
 ### **Suggested Two Frames**
 - `Inside the Box` metrics 
-It is the criteria that the researcher or engineers claims the model should do. e.g. the performance evaluation 
+It is the criteria that the researcher or engineers claim the model should do. e.g. the performance evaluation 
   - Accuracy 
   - Fairness 
   
