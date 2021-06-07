@@ -2,6 +2,7 @@
 
 layout: category
 
-title: PAPER
+title: Papers/FATE
+permalink:'/Papers/FATE'
 
 ---
