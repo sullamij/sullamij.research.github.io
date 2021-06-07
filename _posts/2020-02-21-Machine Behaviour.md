@@ -3,7 +3,7 @@ layout: post
 title: "Machine Behaviour"
 comments: true
 description: "Human and Machine"
-categories: [PAPER]
+categories: [Papers]
 tags:
 - Human&Machine
 ---
