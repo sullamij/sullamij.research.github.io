@@ -7,17 +7,9 @@ layout: default
     <a href="{{ site.url }}{{ site.baseurl }}">{{ site.name }}</a>
   </div>
   <nav class="header-nav">
-    {% for nav in site.nav %}
-    {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-    <a href="{{ nav.url }}">{{ nav.name }}</a>
-    {% else %}
-    <a href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a>
-    {% endif %}
-    {% endfor %}
-  </nav>
-  <div class="site-category">
     <ul class='cat1'>
       <li><a href="/">Home</a></li>
+      
       <li><a href="/">Concepts</a>
         <ul>
             <li><a href="/Concepts/Stats">Statistics</a></li>
@@ -41,7 +33,7 @@ layout: default
         </ul>
       </li>
     </ul>
-  </div>
+  </nav>
 </header>
 
 <div class="page">
