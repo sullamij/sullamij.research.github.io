@@ -101,7 +101,7 @@ body {
   -------------- */
 
 .site-category{
-  background: $background-over-color;
+  //background: $oc-gray-7;
   border-top: transparent;
   margin:auto;
   padding:0;
@@ -127,7 +127,7 @@ body {
   }
 
   .site-category li a{
-  background: $background-over-color;
+  //background: $background-over-color;
   display:block;
   font-weight:normal;
   line-height:50px;
@@ -162,7 +162,7 @@ body {
   }
 
   .site-category li li {
-  background: $background-over-color;
+  //background: $background-over-color;
   display:block;
   float:none;
   margin:0px;
