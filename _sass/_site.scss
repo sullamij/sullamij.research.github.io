@@ -76,7 +76,49 @@ body {
         text-decoration: none;
       }
     }
-  }
+    
+    ul {
+      list-style:none;
+      padding:0;
+      display:inline-block;
+      margin:0 auto;
+    }
+    
+    li{
+      float: left;
+      display: inline;
+      }
+    li a{
+      display:block;
+      text-align:center;  
+      
+      &:hover,
+      &:focus{
+        color:#FFFFFF;
+      }
+    }
+    
+    li ul{
+      display:none;
+    }
+    
+    li:hover ul{
+      display:block;
+    }
+    
+    li li{
+      display:block;
+    }
+    
+    li:hover li a{
+      background:none;
+    }
+    
+    li ul a{
+      display:block;
+    }
+      
+  } 
 }
 
 .header-small {
