@@ -114,6 +114,7 @@ body {
     }
     
     li ul{
+      list-style:none;
       display:none;
       height:auto;
       //position:absolute;
@@ -126,6 +127,7 @@ body {
     
     li:hover ul{
       display:block;
+      list-style:none;
     }
     
     li li{
@@ -139,6 +141,7 @@ body {
     
     li ul a{
       display:block;
+      list-style:none;
     }
           
   } 
