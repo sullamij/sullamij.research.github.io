@@ -78,14 +78,21 @@ body {
     }
     
     .cat1 {
-      list-style:none;
+      list-style: none;
       padding:0;
       display:inline-block;
       margin:0 auto;
     }
     
     .cat1 ul {
-      list-style:none;
+      list-style: none;
+      padding:0;
+      display:inline-block;
+      margin:0 auto;
+    }
+    
+    ul {
+      list-style: none;
       padding:0;
       display:inline-block;
       margin:0 auto;
@@ -108,10 +115,13 @@ body {
     
     li ul{
       display:none;
+      height:auto;
       position:absolute;
       padding:0px;
       margin:0px;
       border:0px;
+      width:200px;
+      z-index:200;
     }
     
     li:hover ul{
