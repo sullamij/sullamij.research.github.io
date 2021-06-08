@@ -61,7 +61,7 @@ body {
   }
 
   &-nav {
-    a {
+    li a {
       color: $oc-gray-7;
       //text-transform: lowercase;
       -webkit-transition: all .2s ease;
@@ -69,10 +69,11 @@ body {
               transition: all .2s ease;
       margin-right: .3rem;
       font-weight: 400;
+      display:block;
 
       &:hover,
       &:focus {
-        color: $oc-gray-7;
+        color:#FFFFFF;
         text-decoration: none;
       }
     }
@@ -103,15 +104,6 @@ body {
       display: inline;
       }
     
-    li a{
-      display:block;
-      text-align:center;  
-      
-      &:hover,
-      &:focus{
-        color:#FFFFFF;
-      }
-    }
     
     li ul{
       list-style:none;
