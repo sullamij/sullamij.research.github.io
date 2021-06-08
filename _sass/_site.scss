@@ -61,105 +61,22 @@ body {
   }
 
   &-nav {
-    li a {
-      list-style:none;
-      list-style-type:none;
+    a {
       color: $oc-gray-7;
-      //text-transform: lowercase;
+      text-transform: lowercase;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
               transition: all .2s ease;
       margin-right: .3rem;
       font-weight: 400;
-      display:block;
 
       &:hover,
       &:focus {
-        color:#FFFFFF;
-        //text-decoration: none;
+        color: $oc-gray-7;
+        text-decoration: none;
       }
     }
-    
-    .cat1 {
-      list-style: none;
-      padding:0;
-      display:inline-block;
-      margin:0 auto;
-      list-style-type:none;
-    }
-    
-    .cat1 ul {
-      list-style: none;
-      list-style-type:none;
-      padding:0;
-      display:inline-block;
-      margin:0 auto;
-    }
-    
-    ul {
-      list-style: none;
-      list-style-type:none;
-      padding:0;
-      display:inline-block;
-      margin:0 auto;
-    }
-    
-    li{
-      float: left;
-      display: inline;
-      list-style:none;
-      list-style-type:none;
-      }
-    
-    
-    li ul{
-      list-style:none;
-      list-style-type:none;
-      display:none;
-      height:auto;
-      //position:absolute;
-      padding:0px;
-      margin:0px;
-      border:0px;
-      //width:200px;
-      //z-index:200;
-    }
-    
-    li:hover ul{
-      display:block;
-      list-style:none;
-    }
-    
-    li li{
-      display:block;
-      float:none;
-      list-style:none;
-      list-style-type:none;
-    }
-    
-    li:hover li a{
-      background:none;
-    }
-    
-    ul li ul{
-      visibility: hidden;
-      opacity:0;
-      transition: all 0.5s ease;
-      display:none;
-      list-style:none;
-      list-style-type:none;
-    }
-    
-    ul li:hover>ul,
-    ul li ul:hover{
-      visibility:visible;
-      opacity:1;
-      display:block;
-      list-style-type:none;
-      list-style:none;
-    }
-          
-  } 
+  }
 }
 
 .header-small {
@@ -178,102 +95,6 @@ body {
     }
   }
 }
-
-/*--------------
-  stie-category 
-  -------------- */
-
-.site-category{
-  //background: $oc-gray-7;
-  border-top: transparent;
-  margin:auto;
-  padding:0;
-  font-size:14px;
-  text-align: center;
-  clear:left;
-  }
-
-  .site-category ul{
-  //background: rgb(109,109,109);
-  height:50px;
-  list-style:none;
-  line-height: 1.5;
-  margin:0 auto;
-  padding:0;
-  display:inline-block;
-  }
-
-  .site-category li{
-  float: left;
-  display:inline;
-
-  }
-
-  .site-category li a{
-  //background: $background-over-color;
-  display:block;
-  font-weight:normal;
-  line-height:50px;
-  margin:0px;
-  padding:0px 25px;
-  text-align:center;
-  text-decoration:none;
-  }
-
-  .site-category li a:hover{
-  background: rgb(71,71,71);
-  color:#FFFFFF;
-  text-decoration:none;
-  }
-
-  .site-category li ul{
-  background: rgb(109,109,109);
-  display:none; /* 평상시에는 드랍메뉴가 안보이게 하기 */
-  height:auto;
-  padding:0px;
-  margin:0px;
-  border:0px;
-  position:absolute;
-  width:200px;
-  z-index:200;
-  /*top:1em;
-  /*left:0;*/
-  }
-
-  .site-category li:hover ul{
-  display:block; /* 마우스 커서 올리면 드랍메뉴 보이게 하기 */
-  }
-
-  .site-category li li {
-  //background: $background-over-color;
-  display:block;
-  float:none;
-  margin:0px;
-  padding:0px;
-  width:200px;
-  }
-
-  .site-category li:hover li a{
-  background:none;
-  }
-
-  .site-category li ul a{
-  display:block;
-  height:50px;
-  font-size:12px;
-  font-style:normal;
-  margin:0px;
-  padding:0px 10px 0px 15px;
-  text-align:left;
-  }
-
-  .site-category li ul a:hover, .menubar li ul li:hover a{
-  background: rgb(71,71,71);
-  border:0px;
-  color:#ffffff;
-  text-decoration:none;
-  }
-
 
 /*--------------
   Page
@@ -316,7 +137,7 @@ body {
     color: $oc-gray-6;
     font-size: .75rem;
   }
-  
+
    &-tag {
     margin-bottom: 1.5rem;
 
@@ -370,7 +191,7 @@ body {
   &-related-post-title {
   border-bottom: thin solid #f3f3f3;
   }
-  
+
 
 }
 
@@ -381,7 +202,7 @@ body {
 .list {
   &-post {
     padding: 4% 2%;
-    
+
     &:hover {
       background-color: $background-over-color;
       border-color: transparent;
