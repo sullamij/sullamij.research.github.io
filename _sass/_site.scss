@@ -71,6 +71,7 @@ body {
       font-weight: 400;
       display:block;
       list-style:none;
+      list-style-type:none;
 
       &:hover,
       &:focus {
@@ -84,10 +85,12 @@ body {
       padding:0;
       display:inline-block;
       margin:0 auto;
+      list-style-type:none;
     }
     
     .cat1 ul {
       list-style: none;
+      list-style-type:none;
       padding:0;
       display:inline-block;
       margin:0 auto;
@@ -95,6 +98,7 @@ body {
     
     ul {
       list-style: none;
+      list-style-type:none;
       padding:0;
       display:inline-block;
       margin:0 auto;
@@ -108,6 +112,7 @@ body {
     
     li ul{
       list-style:none;
+      list-style-type:none;
       display:none;
       height:auto;
       //position:absolute;
@@ -138,6 +143,7 @@ body {
       transition: all 0.5s ease;
       display:none;
       list-style:none;
+      list-style-type:none;
     }
     
     ul li:hover>ul,
@@ -145,6 +151,7 @@ body {
       visibility:visible;
       opacity:1;
       display:block;
+      list-style-type:none;
     }
           
   } 
