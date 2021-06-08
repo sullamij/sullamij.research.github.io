@@ -3,7 +3,7 @@ layout: post
 title: "Machine Behaviour"
 comments: true
 description: "Human and Machine"
-categories: [FATE]
+categories: [Papers/FATE]
 tags:
 - Human&Machine
 ---
