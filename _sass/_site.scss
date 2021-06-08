@@ -77,7 +77,14 @@ body {
       }
     }
     
-    ul {
+    .cat1 {
+      list-style:none;
+      padding:0;
+      display:inline-block;
+      margin:0 auto;
+    }
+    
+    .cat1 ul {
       list-style:none;
       padding:0;
       display:inline-block;
@@ -88,6 +95,7 @@ body {
       float: left;
       display: inline;
       }
+    
     li a{
       display:block;
       text-align:center;  
@@ -100,6 +108,10 @@ body {
     
     li ul{
       display:none;
+      position:absolute;
+      padding:0px;
+      margin:0px;
+      border:0px;
     }
     
     li:hover ul{
@@ -108,6 +120,7 @@ body {
     
     li li{
       display:block;
+      float:none;
     }
     
     li:hover li a{
@@ -117,7 +130,7 @@ body {
     li ul a{
       display:block;
     }
-      
+          
   } 
 }
 
