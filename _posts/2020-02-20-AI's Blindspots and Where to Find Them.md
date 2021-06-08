@@ -3,7 +3,7 @@ layout: post
 title: "AI's Blindspots and Where to Find Them"
 comments: true
 description: "AI's Blindspots, FATE"
-categories: [Papers/FATE]
+categories: [FATE]
 tags:
 - FATML
 ---
